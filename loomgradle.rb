@@ -1,9 +1,10 @@
-class LoomGradle < Formula
+class Loomgradle < Formula
   desc "Open-source build automation tool based on the Groovy and Kotlin DSL"
   homepage "https://www.gradle.org/"
   url "https://services.gradle.org/distributions/gradle-8.8-all.zip"
   sha256 "f8b4f4772d302c8ff580bc40d0f56e715de69b163546944f787c87abf209c961"
   license "Apache-2.0"
+  name "Loomgradle"
 
   livecheck do
     url "https://gradle.org/install/"
