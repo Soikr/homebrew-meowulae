@@ -1,4 +1,4 @@
-class Gradle < Formula
+class LoomGradle < Formula
   desc "Open-source build automation tool based on the Groovy and Kotlin DSL"
   homepage "https://www.gradle.org/"
   url "https://services.gradle.org/distributions/gradle-8.8-all.zip"
