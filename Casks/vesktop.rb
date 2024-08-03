@@ -9,7 +9,7 @@ cask "vesktop" do
 
   livecheck do
     url "https://github.com/Vencord/Vesktop.git"
-    regex(/^v?(\d+(?:\.\d+)+)$/i))
+    regex(/^v?(\d+(?:\.\d+)+)$/i)
   end
 
   app "Vesktop.app"
