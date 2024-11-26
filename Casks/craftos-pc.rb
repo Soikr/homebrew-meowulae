@@ -1,6 +1,6 @@
 cask "craftos-pc" do
-  version "2.8.2"
-  sha256 "b7576ae2f7956d757f5c6a8ca31fdfdd62e200d011a88db2cf1d8af33b8bb93f"
+  version "2.8.3"
+  sha256 "13780d846d4acc5dbd5141929dc9a27a3056ca64f5e9d41be9f336231d29ddd2"
   
   url "https://github.com/MCJack123/craftos2/releases/download/v#{version}/CraftOS-PC.dmg"
   name "CraftOS-PC"
